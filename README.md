@@ -1,0 +1,6 @@
+- 👋 Hi, I’m sardor
+- 👀 I’m interested in Mobile development
+- 🚀 I’m currently learning Kotlin Multiplatform (KMP). 
+- 💞️ I'm looking to collaborate on mobile development and Kotlin Multiplatform (KMP) to build innovative and cross-platform solutions!
+- 📫 How to reach me Telegram : @sabdurakhmonov
+- ⚡ Fun fact: This is too much, so I won’t write it 😅
